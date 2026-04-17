@@ -110,8 +110,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd4b3c31a3130594bbad7b268027e201, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  moveSpeed: 3
-  jumpForce: 3
+  moveSpeed: 2
+  jumpForce: 2
   groundCheck: {fileID: 822168380061213900}
   groundLayer:
     serializedVersion: 2
